@@ -1,3 +1,7 @@
+# Apply error message advice in a command line command
+#   to make app work. (Unrelated to this file but documented 
+#   so that readers know that this app actually works.
+
 class PlantsController < ApplicationController
 
   # GET /plants
